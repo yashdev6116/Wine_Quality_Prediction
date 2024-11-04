@@ -1,0 +1,21 @@
+Wine Quality Prediction:
+
+Problem Statement:
+There is a wine manufacturing company and that company wants to create a new brand of wine, So me as a data scientist, my work is to make a model which can find the quality of the wine using a dataset consist of columns which defines chemical used in it.
+
+My Work:
+I will be building a ML predictive model that can take all the values(chemical values for the dataset)and tell us that the quality of the wine is good or bad.
+
+Work-Flow:
+1. DataSet- Labelled Dataset(Supervised Learning) // Red wine Quality // Kaggle
+2. EDA / Data Analysis
+3. Data Pre-processing
+4. Train-Test split
+5. Random Forest Model - Supervised Learning Model.
+6. Trained Randon Forest Model - Once the model is trained in the given data.
+7. Testing
+8. Result
+
+About The Algorithm:
+Random Forest Algorithm- Combination of Decision Tree
+
